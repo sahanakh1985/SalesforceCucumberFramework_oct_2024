@@ -1,0 +1,5 @@
+com\training\base\BasePage.class
+com\training\base\BaseTest.class
+com\training\utilities\PropertiesReader.class
+com\training\utilities\ExcelReader.class
+com\training\utilities\Constants.class
